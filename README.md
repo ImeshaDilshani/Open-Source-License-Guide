@@ -1,22 +1,14 @@
 # GitHub Licenses Learning Hub
 
-Welcome to the GitHub Licenses Learning Hub! 🚀 This repository is dedicated to helping learners understand and navigate the world of open-source licenses on GitHub.
+Welcome to the GitHub Licenses Learning Hub! 🚀 This repository is a dedicated resource for learners to understand and explore various open-source licenses commonly used on GitHub.
 
-## Table of Contents
+## About
 
-- [Introduction](#introduction)
-- [License Information](#license-information)
-- [How to Contribute](#how-to-contribute)
-- [Documentation](#documentation)
-- [License](#license)
-
-## Introduction
-
-In the world of open source, understanding different licenses is crucial. This repository aims to provide learners with a comprehensive guide to GitHub licenses, helping them make informed decisions about licensing their projects.
+In the world of open source, navigating through different licenses is a crucial skill. The GitHub Licenses Learning Hub aims to provide a comprehensive guide to GitHub licenses, empowering learners to make informed decisions about licensing their projects.
 
 ## License Information
 
-Explore the various open-source licenses commonly used on GitHub. Each license is explained in detail, highlighting its key terms and conditions. Choose the license that best aligns with your project's goals and values.
+Explore the various open-source licenses, each explained in detail to help you understand their key terms and conditions:
 
 - [MIT License](./licenses/MIT.md)
 - [GNU General Public License (GPL)](./licenses/GPL.md)
@@ -26,20 +18,20 @@ Explore the various open-source licenses commonly used on GitHub. Each license i
 
 ## How to Contribute
 
-Your contributions are welcome! If you have insights, corrections, or additional information regarding GitHub licenses, please follow these steps:
+Your contributions are valuable! If you have insights, corrections, or additional information on GitHub licenses, follow these steps:
 
 1. Fork this repository.
 2. Make your changes.
 3. Submit a pull request.
 
-For major changes, please open an issue first to discuss your ideas.
+For significant changes, open an issue first to discuss your ideas.
 
 ## Documentation
 
-For detailed documentation on open-source licenses, refer to the [GitHub Licenses Learning Hub Documentation](./docs/index.md). It provides a step-by-step guide, frequently asked questions, and additional resources.
+Detailed documentation on open-source licenses is available in the [GitHub Licenses Learning Hub Documentation](./docs/index.md). It provides a step-by-step guide, frequently asked questions, and additional resources.
 
 ## License
 
-This repository itself is licensed under the [MIT License](./LICENSE.md). Feel free to use, modify, and share the content in accordance with the terms specified.
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). You are free to share and adapt the content for any purpose, even commercially, as long as you provide appropriate attribution.
 
-Happy coding! 🌐✨
+Happy learning and coding! 🌐✨
